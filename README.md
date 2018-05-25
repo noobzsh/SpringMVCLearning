@@ -1,9 +1,9 @@
 # SpringMVC
 
 idea创建集成项目时必须使用
-![image](http://github.com/nobzshSpringMVCLearning/images/right.png)
+![image](https://github.com/noobzsh/SpringMVCLearning/blob/master/images/right.png)
 不能使用
-![image](http://github.com/nobzshSpringMVCLearning/images/wrong.png)
+![image](https://github.com/noobzsh/SpringMVCLearning/blob/master/images/wrong.png)
 否则报错，无法部署
 
 pom文件必须及时更新，spring等配置文件需要用到pom中注册的依赖。
